@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private Vector2 mousePos;
+    private Vector2 mousePos;
     [SerializeField] private BulletCreator bulletCreator;
     // Start is called before the first frame update
     void Start()

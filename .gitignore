@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Nature_pixel_art_assets/*
+Packages/com.h8man.2d.navmeshplus/*
