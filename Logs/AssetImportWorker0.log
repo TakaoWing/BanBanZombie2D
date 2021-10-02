@@ -4727,3 +4727,2788 @@ Received Import Request.
 Start importing Assets/Nature_pixel_art_assets/palette/Nature_environment_01.prefab using Guid(325706ee1da856d4f849f2d78592f64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e265de7249aff3bb6a518797961e0f') in 0.104970 seconds 
   Import took 0.114274 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.772 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2773ms)
+		BeginReloadAssembly (377ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (229ms)
+		EndReloadAssembly (2246ms)
+			LoadAssemblies (246ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (978ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (95ms)
+			SetupLoadedEditorAssemblies (666ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (524ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.6 MB.
+System memory in use after: 221.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2786.
+Total: 6.176174 ms (FindLiveObjects: 0.480503 ms CreateObjectMapping: 0.129956 ms MarkObjects: 5.535777 ms  DeleteObjects: 0.028402 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 642.054981 seconds.
+  path: Assets/ZombieController.cs
+  artifactKey: Guid(0c83aa5ee7e044571a1af225ec4a9bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ZombieController.cs using Guid(0c83aa5ee7e044571a1af225ec4a9bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7171d468042ee78d78c9f240de02b3') in 0.010369 seconds 
+  Import took 0.018654 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.093 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2094ms)
+		BeginReloadAssembly (307ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (156ms)
+		EndReloadAssembly (1607ms)
+			LoadAssemblies (192ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (620ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (556ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (419ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.8 MB.
+System memory in use after: 222.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2789.
+Total: 5.596533 ms (FindLiveObjects: 0.313493 ms CreateObjectMapping: 0.106963 ms MarkObjects: 5.148430 ms  DeleteObjects: 0.026248 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 123.000820 seconds.
+  path: Assets/Scripts/ZombieController.cs
+  artifactKey: Guid(0c83aa5ee7e044571a1af225ec4a9bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ZombieController.cs using Guid(0c83aa5ee7e044571a1af225ec4a9bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2223852778a27b118ab3c0ec1d93426') in 0.008241 seconds 
+  Import took 0.016167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006435 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.221 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6221ms)
+		BeginReloadAssembly (268ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (144ms)
+		EndReloadAssembly (5753ms)
+			LoadAssemblies (200ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2640ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (488ms)
+			SetupLoadedEditorAssemblies (1425ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (441ms)
+				ProcessInitializeOnLoadAttributes (930ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (40ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.1 MB.
+System memory in use after: 222.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2792.
+Total: 9.622613 ms (FindLiveObjects: 0.615090 ms CreateObjectMapping: 0.493210 ms MarkObjects: 8.398342 ms  DeleteObjects: 0.051505 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 6.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.557 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3558ms)
+		BeginReloadAssembly (322ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (194ms)
+		EndReloadAssembly (3097ms)
+			LoadAssemblies (151ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1275ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (278ms)
+			SetupLoadedEditorAssemblies (1066ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (267ms)
+				ProcessInitializeOnLoadAttributes (743ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (10ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.3 MB.
+System memory in use after: 222.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2795.
+Total: 7.271849 ms (FindLiveObjects: 0.523095 ms CreateObjectMapping: 0.159440 ms MarkObjects: 6.558826 ms  DeleteObjects: 0.028973 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.057 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4058ms)
+		BeginReloadAssembly (611ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (44ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (389ms)
+		EndReloadAssembly (3007ms)
+			LoadAssemblies (349ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1508ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (142ms)
+			SetupLoadedEditorAssemblies (580ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (435ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.5 MB.
+System memory in use after: 222.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2798.
+Total: 4.857924 ms (FindLiveObjects: 0.301054 ms CreateObjectMapping: 0.112725 ms MarkObjects: 4.419213 ms  DeleteObjects: 0.023543 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.275 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4276ms)
+		BeginReloadAssembly (279ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (145ms)
+		EndReloadAssembly (3802ms)
+			LoadAssemblies (207ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1146ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (1909ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (259ms)
+				ProcessInitializeOnLoadAttributes (1612ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.7 MB.
+System memory in use after: 222.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2801.
+Total: 6.239323 ms (FindLiveObjects: 0.465279 ms CreateObjectMapping: 0.194844 ms MarkObjects: 5.548880 ms  DeleteObjects: 0.028854 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.330 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2331ms)
+		BeginReloadAssembly (312ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (161ms)
+		EndReloadAssembly (1882ms)
+			LoadAssemblies (173ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (871ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (93ms)
+			SetupLoadedEditorAssemblies (580ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (445ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.0 MB.
+System memory in use after: 223.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2804.
+Total: 4.486286 ms (FindLiveObjects: 0.330350 ms CreateObjectMapping: 0.103153 ms MarkObjects: 4.028673 ms  DeleteObjects: 0.022827 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.062 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2063ms)
+		BeginReloadAssembly (233ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (121ms)
+		EndReloadAssembly (1710ms)
+			LoadAssemblies (149ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (601ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (647ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (493ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.2 MB.
+System memory in use after: 223.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2807.
+Total: 23.434823 ms (FindLiveObjects: 13.323917 ms CreateObjectMapping: 1.031817 ms MarkObjects: 8.973642 ms  DeleteObjects: 0.103419 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007154 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.855 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3856ms)
+		BeginReloadAssembly (366ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (161ms)
+		EndReloadAssembly (3226ms)
+			LoadAssemblies (419ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1138ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (131ms)
+			SetupLoadedEditorAssemblies (1305ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (189ms)
+				ProcessInitializeOnLoadAttributes (1083ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.4 MB.
+System memory in use after: 223.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2810.
+Total: 6.884641 ms (FindLiveObjects: 0.473628 ms CreateObjectMapping: 0.148648 ms MarkObjects: 6.229288 ms  DeleteObjects: 0.031048 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012184 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 78.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.689 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4690ms)
+		BeginReloadAssembly (858ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (73ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (488ms)
+		EndReloadAssembly (3358ms)
+			LoadAssemblies (659ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1199ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (1233ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (277ms)
+				ProcessInitializeOnLoadAttributes (748ms)
+				ProcessInitializeOnLoadMethodAttributes (112ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (73ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.6 MB.
+System memory in use after: 223.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 7.551166 ms (FindLiveObjects: 0.534917 ms CreateObjectMapping: 0.198711 ms MarkObjects: 6.761057 ms  DeleteObjects: 0.054411 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.321147 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.460 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2461ms)
+		BeginReloadAssembly (203ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (108ms)
+		EndReloadAssembly (2145ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (920ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (113ms)
+			SetupLoadedEditorAssemblies (666ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (513ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.8 MB.
+System memory in use after: 224.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2816.
+Total: 4.875332 ms (FindLiveObjects: 0.470974 ms CreateObjectMapping: 0.166975 ms MarkObjects: 4.207459 ms  DeleteObjects: 0.027309 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.170 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2171ms)
+		BeginReloadAssembly (275ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (141ms)
+		EndReloadAssembly (1754ms)
+			LoadAssemblies (173ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (780ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (563ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (436ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.0 MB.
+System memory in use after: 224.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2819.
+Total: 5.260771 ms (FindLiveObjects: 0.453366 ms CreateObjectMapping: 0.197690 ms MarkObjects: 4.580810 ms  DeleteObjects: 0.027062 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.737 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2738ms)
+		BeginReloadAssembly (375ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (210ms)
+		EndReloadAssembly (2219ms)
+			LoadAssemblies (178ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1029ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (682ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (146ms)
+				ProcessInitializeOnLoadAttributes (512ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.3 MB.
+System memory in use after: 224.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2822.
+Total: 5.743590 ms (FindLiveObjects: 0.311813 ms CreateObjectMapping: 0.148134 ms MarkObjects: 5.225148 ms  DeleteObjects: 0.057222 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.137 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2137ms)
+		BeginReloadAssembly (266ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (149ms)
+		EndReloadAssembly (1736ms)
+			LoadAssemblies (152ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (771ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (556ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (422ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.5 MB.
+System memory in use after: 224.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2825.
+Total: 4.729115 ms (FindLiveObjects: 0.294547 ms CreateObjectMapping: 0.104403 ms MarkObjects: 4.285513 ms  DeleteObjects: 0.043290 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.406 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4406ms)
+		BeginReloadAssembly (277ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (147ms)
+		EndReloadAssembly (3983ms)
+			LoadAssemblies (171ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (771ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (2608ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (172ms)
+				ProcessInitializeOnLoadAttributes (2409ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (46ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.7 MB.
+System memory in use after: 224.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2828.
+Total: 31.200672 ms (FindLiveObjects: 16.638110 ms CreateObjectMapping: 0.309356 ms MarkObjects: 13.955950 ms  DeleteObjects: 0.295369 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.242 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5243ms)
+		BeginReloadAssembly (486ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (53ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (216ms)
+		EndReloadAssembly (4490ms)
+			LoadAssemblies (432ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1059ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (303ms)
+			SetupLoadedEditorAssemblies (2253ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (549ms)
+				ProcessInitializeOnLoadAttributes (1595ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (50ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (106ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.9 MB.
+System memory in use after: 225.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2831.
+Total: 5.947256 ms (FindLiveObjects: 0.494704 ms CreateObjectMapping: 0.131567 ms MarkObjects: 5.267873 ms  DeleteObjects: 0.051439 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003553 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.387 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2388ms)
+		BeginReloadAssembly (323ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (156ms)
+		EndReloadAssembly (1890ms)
+			LoadAssemblies (231ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (776ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (117ms)
+			SetupLoadedEditorAssemblies (614ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (462ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.2 MB.
+System memory in use after: 225.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2834.
+Total: 5.686887 ms (FindLiveObjects: 0.682130 ms CreateObjectMapping: 0.237180 ms MarkObjects: 4.715995 ms  DeleteObjects: 0.049946 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.143 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2143ms)
+		BeginReloadAssembly (272ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (151ms)
+		EndReloadAssembly (1736ms)
+			LoadAssemblies (154ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (652ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (633ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (126ms)
+				ProcessInitializeOnLoadAttributes (484ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.4 MB.
+System memory in use after: 225.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2837.
+Total: 6.644482 ms (FindLiveObjects: 0.632058 ms CreateObjectMapping: 0.166538 ms MarkObjects: 5.814296 ms  DeleteObjects: 0.029715 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.636 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5637ms)
+		BeginReloadAssembly (267ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (145ms)
+		EndReloadAssembly (5210ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1260ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (233ms)
+			SetupLoadedEditorAssemblies (2245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (63ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (677ms)
+				ProcessInitializeOnLoadAttributes (1469ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.6 MB.
+System memory in use after: 225.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2840.
+Total: 7.739414 ms (FindLiveObjects: 0.454611 ms CreateObjectMapping: 0.135913 ms MarkObjects: 7.089767 ms  DeleteObjects: 0.057731 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 721.261159 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(f3c39528427d047a6b178e8945896053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(f3c39528427d047a6b178e8945896053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50266a1115a9aaa3cf79fe67a9bd02e2') in 0.007629 seconds 
+  Import took 0.012908 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.740 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1741ms)
+		BeginReloadAssembly (231ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (118ms)
+		EndReloadAssembly (1383ms)
+			LoadAssemblies (142ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (510ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (505ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (380ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.9 MB.
+System memory in use after: 226.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2843.
+Total: 4.118933 ms (FindLiveObjects: 0.306600 ms CreateObjectMapping: 0.101864 ms MarkObjects: 3.687781 ms  DeleteObjects: 0.021552 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.179475 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.362 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4362ms)
+		BeginReloadAssembly (309ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (24ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (168ms)
+		EndReloadAssembly (3917ms)
+			LoadAssemblies (157ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1532ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (338ms)
+			SetupLoadedEditorAssemblies (1137ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (341ms)
+				ProcessInitializeOnLoadAttributes (755ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 62.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.1 MB.
+System memory in use after: 226.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2846.
+Total: 6.960657 ms (FindLiveObjects: 0.606602 ms CreateObjectMapping: 0.176987 ms MarkObjects: 6.137157 ms  DeleteObjects: 0.038283 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.214 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3214ms)
+		BeginReloadAssembly (324ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (2ms)
+			CreateAndSetChildDomain (173ms)
+		EndReloadAssembly (2751ms)
+			LoadAssemblies (245ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (751ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (220ms)
+			SetupLoadedEditorAssemblies (1182ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (183ms)
+				ProcessInitializeOnLoadAttributes (966ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.3 MB.
+System memory in use after: 226.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2849.
+Total: 6.597004 ms (FindLiveObjects: 0.441423 ms CreateObjectMapping: 0.133797 ms MarkObjects: 5.991072 ms  DeleteObjects: 0.029134 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.359 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3360ms)
+		BeginReloadAssembly (269ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (130ms)
+		EndReloadAssembly (2933ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1509ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (183ms)
+			SetupLoadedEditorAssemblies (762ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (160ms)
+				ProcessInitializeOnLoadAttributes (576ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.5 MB.
+System memory in use after: 226.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2852.
+Total: 6.467836 ms (FindLiveObjects: 0.463957 ms CreateObjectMapping: 0.164413 ms MarkObjects: 5.789063 ms  DeleteObjects: 0.048778 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.898 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2898ms)
+		BeginReloadAssembly (274ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (137ms)
+		EndReloadAssembly (2491ms)
+			LoadAssemblies (185ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1216ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (200ms)
+			SetupLoadedEditorAssemblies (687ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (528ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.7 MB.
+System memory in use after: 226.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2855.
+Total: 6.484537 ms (FindLiveObjects: 0.473680 ms CreateObjectMapping: 0.162682 ms MarkObjects: 5.782342 ms  DeleteObjects: 0.064238 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005854 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.782 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4783ms)
+		BeginReloadAssembly (366ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (168ms)
+		EndReloadAssembly (4231ms)
+			LoadAssemblies (431ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1059ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (2362ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (502ms)
+				ProcessInitializeOnLoadAttributes (1815ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 227.0 MB.
+System memory in use after: 227.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2858.
+Total: 6.928772 ms (FindLiveObjects: 0.493590 ms CreateObjectMapping: 0.157363 ms MarkObjects: 6.216775 ms  DeleteObjects: 0.058916 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.488 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2488ms)
+		BeginReloadAssembly (295ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (27ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (155ms)
+		EndReloadAssembly (2036ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (730ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (139ms)
+			SetupLoadedEditorAssemblies (719ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (145ms)
+				ProcessInitializeOnLoadAttributes (543ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 227.2 MB.
+System memory in use after: 227.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2861.
+Total: 7.135012 ms (FindLiveObjects: 0.476164 ms CreateObjectMapping: 0.156740 ms MarkObjects: 6.471415 ms  DeleteObjects: 0.029304 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004885 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.291 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3292ms)
+		BeginReloadAssembly (343ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (155ms)
+		EndReloadAssembly (2780ms)
+			LoadAssemblies (208ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (924ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (170ms)
+			SetupLoadedEditorAssemblies (1131ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (201ms)
+				ProcessInitializeOnLoadAttributes (896ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (33ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 227.4 MB.
+System memory in use after: 227.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2864.
+Total: 8.756209 ms (FindLiveObjects: 0.535592 ms CreateObjectMapping: 0.279123 ms MarkObjects: 7.906616 ms  DeleteObjects: 0.033035 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 822.231598 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_01.prefab
+  artifactKey: Guid(e45c9aed6bafa964782c6325956f228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_01.prefab using Guid(e45c9aed6bafa964782c6325956f228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f06e160b18f6b235a87de53953a10af') in 0.180645 seconds 
+  Import took 0.188129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002074 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_28.prefab
+  artifactKey: Guid(c60e10becc91cdc488b6f96b7aacf54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_28.prefab using Guid(c60e10becc91cdc488b6f96b7aacf54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73123f963bdd8067e1f840a5dd33f84c') in 0.028588 seconds 
+  Import took 0.035297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_05.prefab
+  artifactKey: Guid(77c0e2e550619d74592a6882db6d033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_05.prefab using Guid(77c0e2e550619d74592a6882db6d033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092009b2e80e50c29bca10366363650d') in 0.027318 seconds 
+  Import took 0.035319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_30.prefab
+  artifactKey: Guid(abf0bc9c105690d4c87552b83f28a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_30.prefab using Guid(abf0bc9c105690d4c87552b83f28a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec3043326fdd1c949ff0284c1b5785c') in 0.021325 seconds 
+  Import took 0.029792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_08.prefab
+  artifactKey: Guid(be973aab1705b594aa401a7d08cb2198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_08.prefab using Guid(be973aab1705b594aa401a7d08cb2198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5b56cd2e1f7c0015468ca64254f29d') in 0.014032 seconds 
+  Import took 0.020424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_13.prefab
+  artifactKey: Guid(527cab527cab11b46bec512eb84237e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_13.prefab using Guid(527cab527cab11b46bec512eb84237e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fe9af284669473b58ca3dc52953c8d') in 0.032056 seconds 
+  Import took 0.039141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_22.prefab
+  artifactKey: Guid(79569ca2af2aefb4eb1d1819e98bf3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_22.prefab using Guid(79569ca2af2aefb4eb1d1819e98bf3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a8d6730add594ab782b64740a90630') in 0.018898 seconds 
+  Import took 0.028210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_04.prefab
+  artifactKey: Guid(b03b2a5438f49b04db8ec8b2dcc8316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_04.prefab using Guid(b03b2a5438f49b04db8ec8b2dcc8316c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c924e21aeea569d45e6da0c126c5c06') in 0.017382 seconds 
+  Import took 0.025225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_31.prefab
+  artifactKey: Guid(f802a960462afea4bbce60e223b448f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_31.prefab using Guid(f802a960462afea4bbce60e223b448f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc469fe4408c39bea4c30dd0afadc08c') in 0.024513 seconds 
+  Import took 0.032718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_25.prefab
+  artifactKey: Guid(d26f07b6b8619784cacddf6eb54abb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_25.prefab using Guid(d26f07b6b8619784cacddf6eb54abb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c80d1e64b451948f47dc6801da125b1') in 0.015701 seconds 
+  Import took 0.023104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_29.prefab
+  artifactKey: Guid(11a6e0e2923a1cd4d98fca27f87aea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_29.prefab using Guid(11a6e0e2923a1cd4d98fca27f87aea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e448e21a80eb3b4b6c391e348ac390') in 0.065728 seconds 
+  Import took 0.077953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_09.prefab
+  artifactKey: Guid(f3efe889a0e3f30479c4ec00226829f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_09.prefab using Guid(f3efe889a0e3f30479c4ec00226829f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639db69b3ebabb65eabb3c29d9d5d35b') in 0.018124 seconds 
+  Import took 0.024793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_12.prefab
+  artifactKey: Guid(57dc346d5f7d5fd40b8dbb439a6b62ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_12.prefab using Guid(57dc346d5f7d5fd40b8dbb439a6b62ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b01c53c69566e4772fabeea3c5c675') in 0.035851 seconds 
+  Import took 0.046123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002174 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_18.prefab
+  artifactKey: Guid(efbbc1a7890bb6044a8fa67db33f6ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_18.prefab using Guid(efbbc1a7890bb6044a8fa67db33f6ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de484a09659f920b9b5cd4feec700965') in 0.015246 seconds 
+  Import took 0.021781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001655 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_17.prefab
+  artifactKey: Guid(20b4923008369ef4883c3ccd4a040d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_17.prefab using Guid(20b4923008369ef4883c3ccd4a040d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cfaf9b8e7953e2778eb3e3838baf71c') in 0.016840 seconds 
+  Import took 0.026618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_19.prefab
+  artifactKey: Guid(f72335d0f97cbdd4abec38471223522a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_19.prefab using Guid(f72335d0f97cbdd4abec38471223522a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c97c2944ab425d2eae07019749a964c') in 0.018474 seconds 
+  Import took 0.026014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_23.prefab
+  artifactKey: Guid(b44a0eea649a1c045bcf8888f8f81050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_23.prefab using Guid(b44a0eea649a1c045bcf8888f8f81050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302b6f5d19c00598bbf68e5e8ee91627') in 0.037517 seconds 
+  Import took 0.044770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_07.prefab
+  artifactKey: Guid(758b8713682e85f4180f6192cd0210fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_07.prefab using Guid(758b8713682e85f4180f6192cd0210fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05029d1492be255eafcb75f340cc5bdc') in 0.016348 seconds 
+  Import took 0.022104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_20.prefab
+  artifactKey: Guid(36eefd045905ea840940e9553e42ce8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_20.prefab using Guid(36eefd045905ea840940e9553e42ce8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c8bda70c81e5047cc64a21089555ec') in 0.022607 seconds 
+  Import took 0.032295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_02.prefab
+  artifactKey: Guid(c1e4a038e33e0834f86741f54c51310b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_02.prefab using Guid(c1e4a038e33e0834f86741f54c51310b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40eefa686b0a1a4674e289b45c0d144f') in 0.035047 seconds 
+  Import took 0.042651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_11.prefab
+  artifactKey: Guid(6524230b94a7af4409d8c13b6474b3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_11.prefab using Guid(6524230b94a7af4409d8c13b6474b3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c38c06893e03256a79c3017df85d3d') in 0.036197 seconds 
+  Import took 0.050617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001204 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_26.prefab
+  artifactKey: Guid(efbde38838d036d49ab3d0ab4d323eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_26.prefab using Guid(efbde38838d036d49ab3d0ab4d323eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2b4e78674c53c893377370c70f447b') in 0.249991 seconds 
+  Import took 0.257763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_14.prefab
+  artifactKey: Guid(627b123d76dd42541b762a87c3ba8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_14.prefab using Guid(627b123d76dd42541b762a87c3ba8460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57e064dcd75b352be5f7e07df97bc87') in 0.012581 seconds 
+  Import took 0.018517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_27.prefab
+  artifactKey: Guid(1753d53c838270d479ba970c43ad019b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_27.prefab using Guid(1753d53c838270d479ba970c43ad019b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadf4805b52fc342f95e77c6226da02e') in 0.011875 seconds 
+  Import took 0.016980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_21.prefab
+  artifactKey: Guid(4dc93bd254f2c41479bfed68801a7bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_21.prefab using Guid(4dc93bd254f2c41479bfed68801a7bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf0c62f7d244aa3f3fbaf38bb968f71') in 0.012513 seconds 
+  Import took 0.017450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_10.prefab
+  artifactKey: Guid(10753226447896e44b12ebb13c411542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_10.prefab using Guid(10753226447896e44b12ebb13c411542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767ab80b06f9947b5d58ab9c1bb9ad89') in 0.014870 seconds 
+  Import took 0.019554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121979 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_16.prefab
+  artifactKey: Guid(05a512aa4c73d604892921f1d2a511e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_16.prefab using Guid(05a512aa4c73d604892921f1d2a511e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926d5a83401110cf0d4e2032bb0b96bd') in 0.012295 seconds 
+  Import took 0.018838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_03.prefab
+  artifactKey: Guid(45570b5f63ba4b64590574d72f44d18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_03.prefab using Guid(45570b5f63ba4b64590574d72f44d18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ee4ea0bec66b0b25c431da2597e56e') in 0.010767 seconds 
+  Import took 0.015648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_15.prefab
+  artifactKey: Guid(486f42fcb063b4b4fa79b395c40825eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_15.prefab using Guid(486f42fcb063b4b4fa79b395c40825eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00334d1edfda965e64f416b15b5a9f2b') in 0.013720 seconds 
+  Import took 0.018419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_06.prefab
+  artifactKey: Guid(ecba8dbba1cf5cf499ff7c730d1a58b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_06.prefab using Guid(ecba8dbba1cf5cf499ff7c730d1a58b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3d9ca23676ccfafd460c39515feb82') in 0.010937 seconds 
+  Import took 0.015572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_24.prefab
+  artifactKey: Guid(a9d33771d2468d1449907d266d3b6d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_24.prefab using Guid(a9d33771d2468d1449907d266d3b6d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696c370cacbaf2abead72f10caddc4b3') in 0.011639 seconds 
+  Import took 0.019148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185186 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_06.prefab
+  artifactKey: Guid(ecba8dbba1cf5cf499ff7c730d1a58b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_06.prefab using Guid(ecba8dbba1cf5cf499ff7c730d1a58b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3d9ca23676ccfafd460c39515feb82') in 0.023872 seconds 
+  Import took 0.031315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.905088 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_32.prefab
+  artifactKey: Guid(982283eb324406648881132bc4ba92b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_32.prefab using Guid(982283eb324406648881132bc4ba92b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81a1ba6594d05f78db6c647c940de03') in 0.014449 seconds 
+  Import took 0.020424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_35.prefab
+  artifactKey: Guid(caf668abd5a39ed40b31a5bf64d019ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_35.prefab using Guid(caf668abd5a39ed40b31a5bf64d019ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573f04d748c3f0fefbc91bf04d5ddc6e') in 0.012205 seconds 
+  Import took 0.017713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_33.prefab
+  artifactKey: Guid(ddb716f4f4916bd49acf599e99be7b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_33.prefab using Guid(ddb716f4f4916bd49acf599e99be7b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768431b931e078894041633e63c0c2fb') in 0.012616 seconds 
+  Import took 0.018086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_34.prefab
+  artifactKey: Guid(6b13e8b5789585846a705035c6ad62cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_34.prefab using Guid(6b13e8b5789585846a705035c6ad62cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8cf2f4d1c8bacd56c8c4ca47a17f98') in 0.021977 seconds 
+  Import took 0.026972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_37.prefab
+  artifactKey: Guid(ef7bc88c916e69648b8fd874020a9ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_37.prefab using Guid(ef7bc88c916e69648b8fd874020a9ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00537c8167b505a2aa30ce0ee4672f90') in 0.012027 seconds 
+  Import took 0.017635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_36.prefab
+  artifactKey: Guid(63c74e18159d5cf4a8bce25adca0f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_36.prefab using Guid(63c74e18159d5cf4a8bce25adca0f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65690e8f31edb59e84e3da165b5a203f') in 0.040440 seconds 
+  Import took 0.049268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.469562 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_38.prefab
+  artifactKey: Guid(c91193e0f75c73949bf7928ddd6cd517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_38.prefab using Guid(c91193e0f75c73949bf7928ddd6cd517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ac08c13c57f0f7c5205957802679a7') in 0.014214 seconds 
+  Import took 0.019586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_39.prefab
+  artifactKey: Guid(ff2321c1e30309840845d6def31b27d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_39.prefab using Guid(ff2321c1e30309840845d6def31b27d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bfc571c8c247f488b49e7a071b907e') in 0.012740 seconds 
+  Import took 0.018114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_40.prefab
+  artifactKey: Guid(9605169b51151584eb216eb7cbbe78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_40.prefab using Guid(9605169b51151584eb216eb7cbbe78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2957bbd276ab8dffef7cecf7d012caf0') in 0.012288 seconds 
+  Import took 0.018145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.390581 seconds.
+  path: Assets/Nature_pixel_art_assets/textures/Nature_props_01.png
+  artifactKey: Guid(4b00c4fcb1be91245b2dab5149c61c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/textures/Nature_props_01.png using Guid(4b00c4fcb1be91245b2dab5149c61c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6599d6059cf557189667e889e12b82e8') in 0.409787 seconds 
+  Import took 0.417239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024487 seconds.
+  path: Assets/Nature_pixel_art_assets/textures/Nature_props_01.png
+  artifactKey: Guid(4b00c4fcb1be91245b2dab5149c61c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/textures/Nature_props_01.png using Guid(4b00c4fcb1be91245b2dab5149c61c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6599d6059cf557189667e889e12b82e8') in 0.388792 seconds 
+  Import took 0.396280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.017394 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_31.asset
+  artifactKey: Guid(4a52573e169b6a6448cac353b784bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_31.asset using Guid(4a52573e169b6a6448cac353b784bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90dcddefd4c1f43d99872e2720cbc57e') in 0.033402 seconds 
+  Import took 0.039484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_33.asset
+  artifactKey: Guid(172d08bcb53dccf42bb2c64bbb58474b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_33.asset using Guid(172d08bcb53dccf42bb2c64bbb58474b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961957dded488270a4add45ad4bcceb8') in 0.010410 seconds 
+  Import took 0.016186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_36.asset
+  artifactKey: Guid(1776c3335baafba479b1ab381145e932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_36.asset using Guid(1776c3335baafba479b1ab381145e932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55595c3c00c21453d1e4cc32d87fb7cf') in 0.011104 seconds 
+  Import took 0.017839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_37.asset
+  artifactKey: Guid(d105ef3629de8b2469b1b4815ca5fbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_37.asset using Guid(d105ef3629de8b2469b1b4815ca5fbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd58a7311ce862d5b5d12cfdad6729d0') in 0.010722 seconds 
+  Import took 0.016383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_32.asset
+  artifactKey: Guid(f04b36ab1cd152143a34db0860bd5eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_32.asset using Guid(f04b36ab1cd152143a34db0860bd5eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d223cfccea5840045825a9499030a52') in 0.010207 seconds 
+  Import took 0.015744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_38.asset
+  artifactKey: Guid(96ff7485d27efed49b137a40bbb7216d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_38.asset using Guid(96ff7485d27efed49b137a40bbb7216d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3448290b850c23a9ffeebf8bf116bb') in 0.011269 seconds 
+  Import took 0.016857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_35.asset
+  artifactKey: Guid(53d36402410e9424483884e2d7dacbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_35.asset using Guid(53d36402410e9424483884e2d7dacbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49da8a663659ee97585c142e0bf136e') in 0.011597 seconds 
+  Import took 0.017001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109888 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_34.asset
+  artifactKey: Guid(943edf6edf7062047a1fae5c71364c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_34.asset using Guid(943edf6edf7062047a1fae5c71364c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5716f0a4ee8f3fe7a8ad97fdb37ac91') in 0.016716 seconds 
+  Import took 0.027097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001030 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_41.asset
+  artifactKey: Guid(c625b644a4ef6c3489c691b564bd73e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_41.asset using Guid(c625b644a4ef6c3489c691b564bd73e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4e12d358e864d21e26c28708f22664') in 0.011045 seconds 
+  Import took 0.016862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_42.asset
+  artifactKey: Guid(7edb7b09558aa5546b128e5ac0ebb4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_42.asset using Guid(7edb7b09558aa5546b128e5ac0ebb4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143e6ad8a3ec75ea72462564ff655047') in 0.010698 seconds 
+  Import took 0.016198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_44.asset
+  artifactKey: Guid(e7107401309ba754e8dfeffd3a10fa0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_44.asset using Guid(e7107401309ba754e8dfeffd3a10fa0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cbbe0bd29545a9c2bda87b358b43b8') in 0.010955 seconds 
+  Import took 0.016429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_39.asset
+  artifactKey: Guid(570068a36440d9843bdbbab8b5a35f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_39.asset using Guid(570068a36440d9843bdbbab8b5a35f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46cd3b7321b2792005c1113b4035a0bb') in 0.011926 seconds 
+  Import took 0.017752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_43.asset
+  artifactKey: Guid(a007b63f9d7900648b256cb0401ffd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_43.asset using Guid(a007b63f9d7900648b256cb0401ffd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee115d36be170650fc26ba4034430b4a') in 0.010297 seconds 
+  Import took 0.015603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_40.asset
+  artifactKey: Guid(10b220373ed434a4699d1cd6e79364db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_40.asset using Guid(10b220373ed434a4699d1cd6e79364db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e449252b0b90a6696642fa2951fce9a') in 0.009849 seconds 
+  Import took 0.015276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102107 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_45.asset
+  artifactKey: Guid(d6f348fcc415f09449722f37c91aaab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_45.asset using Guid(d6f348fcc415f09449722f37c91aaab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91cce729c02723252430cdcec4e03390') in 0.017022 seconds 
+  Import took 0.025432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_54.asset
+  artifactKey: Guid(c0c1050b2504e604ab7bede02243e601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_54.asset using Guid(c0c1050b2504e604ab7bede02243e601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a315c0f26382e077eb4e5f4cddee76f6') in 0.015048 seconds 
+  Import took 0.025299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_52.asset
+  artifactKey: Guid(62077ef255209314bbd51a66e43cae49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_52.asset using Guid(62077ef255209314bbd51a66e43cae49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122903f9f57e79d25bd3534d52fd9702') in 0.016221 seconds 
+  Import took 0.022156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_46.asset
+  artifactKey: Guid(f8bde329e3be4f94999206cb0ccd3d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_46.asset using Guid(f8bde329e3be4f94999206cb0ccd3d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd051f3e287e83d0311f1816465c6ab5') in 0.011977 seconds 
+  Import took 0.020961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_49.asset
+  artifactKey: Guid(c066c821f73cfca4094b8b06fe495945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_49.asset using Guid(c066c821f73cfca4094b8b06fe495945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c5c0fd3b841078809cb8460ece7c24') in 0.091359 seconds 
+  Import took 0.099183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004713 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_51.asset
+  artifactKey: Guid(13d9a81a886b2214ab5dc4c62dc9605c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_51.asset using Guid(13d9a81a886b2214ab5dc4c62dc9605c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12c9d8a34f7b8a71f0c9d478f182830') in 0.011135 seconds 
+  Import took 0.017508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002407 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_48.asset
+  artifactKey: Guid(a8b248f8091ec9a4385f9c64c5a99333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_48.asset using Guid(a8b248f8091ec9a4385f9c64c5a99333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0d26177462ece29971bdc6e91a9530') in 0.010617 seconds 
+  Import took 0.016601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001371 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_60.asset
+  artifactKey: Guid(0dbe66b83d5b278498715179f8f5a55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_60.asset using Guid(0dbe66b83d5b278498715179f8f5a55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e95ca9730795d2bccde442686d46a51') in 0.021264 seconds 
+  Import took 0.029028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_66.asset
+  artifactKey: Guid(0db84537ade18a64488cf03e16b2ad8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_66.asset using Guid(0db84537ade18a64488cf03e16b2ad8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbe7a19b29504663f7b9ed8abe88a2c') in 0.017236 seconds 
+  Import took 0.027189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_65.asset
+  artifactKey: Guid(569bb8e460cc74b40be4f02ef69b7d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_65.asset using Guid(569bb8e460cc74b40be4f02ef69b7d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fa8b84328f7b75be147bc460c24da8') in 0.022300 seconds 
+  Import took 0.032692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_55.asset
+  artifactKey: Guid(f2e5947c1730eea41b86ee788040d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_55.asset using Guid(f2e5947c1730eea41b86ee788040d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c036d5d2fbafc9609fe8892f39825cc') in 0.017498 seconds 
+  Import took 0.024864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_58.asset
+  artifactKey: Guid(dda74bf3b6f8975449c615434310cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_58.asset using Guid(dda74bf3b6f8975449c615434310cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7bf5890d623ec9e4022b0e23bdec863') in 0.010854 seconds 
+  Import took 0.018105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_56.asset
+  artifactKey: Guid(1d0dbd4545f2c4340b608dbbe8ed5df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_56.asset using Guid(1d0dbd4545f2c4340b608dbbe8ed5df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f7c5dc6a1b2226911f4564d27a8156') in 0.012817 seconds 
+  Import took 0.019960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_61.asset
+  artifactKey: Guid(49173cebef9971a4288cf94b06f0d27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_61.asset using Guid(49173cebef9971a4288cf94b06f0d27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7226819fd1e578e39523c2a15871a6f5') in 0.014653 seconds 
+  Import took 0.023680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033907 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_63.asset
+  artifactKey: Guid(cd736c9958b9f87439bfad4ed2cf5036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_63.asset using Guid(cd736c9958b9f87439bfad4ed2cf5036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afde39d0b439a0e79776ed94ef531cd') in 0.017545 seconds 
+  Import took 0.028594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001506 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_64.asset
+  artifactKey: Guid(d5eed85282f1e6f4e8b614b17187e68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_64.asset using Guid(d5eed85282f1e6f4e8b614b17187e68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3cd6f19d9ac8e36c246660da7e2a63') in 0.011705 seconds 
+  Import took 0.018048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005268 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_68.asset
+  artifactKey: Guid(d49c2ba1ccd3a88489a149f9fee52c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_68.asset using Guid(d49c2ba1ccd3a88489a149f9fee52c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afc1ecf3eb93570dbaae134f8025847') in 0.017150 seconds 
+  Import took 0.025133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001200 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_67.asset
+  artifactKey: Guid(ae8d3b512dc88954d8524d8073a8e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_67.asset using Guid(ae8d3b512dc88954d8524d8073a8e2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c5cff405153d5449a87139299d7e3d') in 0.024072 seconds 
+  Import took 0.057775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_75.asset
+  artifactKey: Guid(2dfef20754efe2042b3290043219f413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_75.asset using Guid(2dfef20754efe2042b3290043219f413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9bed61bb03daa4bc92008c7a0355a9') in 0.015092 seconds 
+  Import took 0.022206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_69.asset
+  artifactKey: Guid(08d4af808d8a163479b9612e39e0d755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_69.asset using Guid(08d4af808d8a163479b9612e39e0d755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac5014266bf0cf975287b0a742b988e') in 0.012679 seconds 
+  Import took 0.018382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_72.asset
+  artifactKey: Guid(ce4f37cee463c2f4a80f24c91d9e290a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_72.asset using Guid(ce4f37cee463c2f4a80f24c91d9e290a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd224534d0527da764a64eda56cfccec8') in 0.016620 seconds 
+  Import took 0.023925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_62.asset
+  artifactKey: Guid(b2ae07dd078240b498f766dd4460429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_62.asset using Guid(b2ae07dd078240b498f766dd4460429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b41d42c48863e9df8324a1a9b838590') in 0.030240 seconds 
+  Import took 0.038454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_76.asset
+  artifactKey: Guid(b78c314f622296c418d299f3a8b66ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_76.asset using Guid(b78c314f622296c418d299f3a8b66ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096fd52ea779b55f475f6999b00aa6ef') in 0.033086 seconds 
+  Import took 0.040362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_73.asset
+  artifactKey: Guid(879e53da5d456be41a5e1bbb6ab6f7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_73.asset using Guid(879e53da5d456be41a5e1bbb6ab6f7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51ded1789c2b192b3841ed27aa68ed7') in 0.029964 seconds 
+  Import took 0.035797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_47.asset
+  artifactKey: Guid(9d089f408eb9f7c4e8c1d55f66239dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_47.asset using Guid(9d089f408eb9f7c4e8c1d55f66239dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b200d7136db07d1dc6d5e787e7a5fd1b') in 0.054919 seconds 
+  Import took 0.064023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_81.asset
+  artifactKey: Guid(406c637693f853942b0596fd8988833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_81.asset using Guid(406c637693f853942b0596fd8988833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b08762f4febca2e4f48cf7eb584fa5') in 0.015311 seconds 
+  Import took 0.024871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_85.asset
+  artifactKey: Guid(ce5b5afe4bad3fe4db8fba9f449ffedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_85.asset using Guid(ce5b5afe4bad3fe4db8fba9f449ffedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0132243bdc469c80aa819268842def48') in 0.013747 seconds 
+  Import took 0.022240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_88.asset
+  artifactKey: Guid(92bb20ed643007d4ca4ff806b5c79696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_88.asset using Guid(92bb20ed643007d4ca4ff806b5c79696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3cc9d7d0b2ab92a91dc61d0bc4be3df') in 0.011857 seconds 
+  Import took 0.018086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_86.asset
+  artifactKey: Guid(40c151df02ed0394e887ff8ad3c479fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_86.asset using Guid(40c151df02ed0394e887ff8ad3c479fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46727ded83d51167cdddb7ba0b2a1218') in 0.013932 seconds 
+  Import took 0.023713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003170 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_78.asset
+  artifactKey: Guid(7a0669562b5a7d14099e9c4be2fee317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_78.asset using Guid(7a0669562b5a7d14099e9c4be2fee317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ed85f8f6673b1a2a18a3436e121978') in 0.018370 seconds 
+  Import took 0.026860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001475 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_79.asset
+  artifactKey: Guid(de0d062a9feec324ea214c79c87dac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_79.asset using Guid(de0d062a9feec324ea214c79c87dac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d02c18b2af0b4b77d266998a8b6607') in 0.010995 seconds 
+  Import took 0.018358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007581 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_94.asset
+  artifactKey: Guid(7f5d80de65df04943abcd281deb783fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_94.asset using Guid(7f5d80de65df04943abcd281deb783fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818d9389719dca0329788385890a552e') in 0.013495 seconds 
+  Import took 0.023251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_92.asset
+  artifactKey: Guid(37f588140d3d3a14bb78902b710a39b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_92.asset using Guid(37f588140d3d3a14bb78902b710a39b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc48f01568583f2b552310462e76298') in 0.011404 seconds 
+  Import took 0.017848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_99.asset
+  artifactKey: Guid(fdd60fe29a9d5924aa0054889dd82796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_99.asset using Guid(fdd60fe29a9d5924aa0054889dd82796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bbced196d04bc6bb68c420f0feb44dd') in 0.019511 seconds 
+  Import took 0.025958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010490 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_91.asset
+  artifactKey: Guid(afb73388839d3f448a9d747b3894f8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_91.asset using Guid(afb73388839d3f448a9d747b3894f8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e59a14ca8bf0ca7cf353f1df3b9494a') in 0.028145 seconds 
+  Import took 0.039209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_84.asset
+  artifactKey: Guid(a4db2ad1d6dfb3841a749538a53f7a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_84.asset using Guid(a4db2ad1d6dfb3841a749538a53f7a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dec2c7d2d54b367317f4fda21916915') in 0.016206 seconds 
+  Import took 0.031597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_93.asset
+  artifactKey: Guid(8685a598ee1720a498cabc525ea507f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_93.asset using Guid(8685a598ee1720a498cabc525ea507f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13eeef0c2f89a803f01416b1e32732c3') in 0.016643 seconds 
+  Import took 0.025032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001056 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_97.asset
+  artifactKey: Guid(6a4bbaaa16ae47d49a3d6191a5af19f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_97.asset using Guid(6a4bbaaa16ae47d49a3d6191a5af19f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b06219220d377d8fc44095b904097d') in 0.033094 seconds 
+  Import took 0.041235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000958 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_80.asset
+  artifactKey: Guid(8a1a96440416a2c449d0c2c4a5c9c006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_80.asset using Guid(8a1a96440416a2c449d0c2c4a5c9c006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0b0efb40fe0a8f47709c0712267395') in 0.012158 seconds 
+  Import took 0.018896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002308 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_101.asset
+  artifactKey: Guid(a69b23a0105f6ff4081b4c528ec1b3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_101.asset using Guid(a69b23a0105f6ff4081b4c528ec1b3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d2a30a2b7a2457fdd2634494d25f28') in 0.012980 seconds 
+  Import took 0.020935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002898 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_106.asset
+  artifactKey: Guid(68006e8b75895ae459905640b2fa9314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_106.asset using Guid(68006e8b75895ae459905640b2fa9314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74fa5a41fd970d3a68db472da00a1837') in 0.013503 seconds 
+  Import took 0.019802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_82.asset
+  artifactKey: Guid(9adce1a845c4edd4b8ca943fd1d63d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_82.asset using Guid(9adce1a845c4edd4b8ca943fd1d63d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ffbe3113e98576124fcf2e7bc2c81b') in 0.016133 seconds 
+  Import took 0.022608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_90.asset
+  artifactKey: Guid(7a13e408bc908f647a37c84bdcd94e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_90.asset using Guid(7a13e408bc908f647a37c84bdcd94e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd34ac546a9587f601963b78ccc7d1ff0') in 0.011023 seconds 
+  Import took 0.020249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_83.asset
+  artifactKey: Guid(677602d800a8ae240abb1e546d5fb4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_83.asset using Guid(677602d800a8ae240abb1e546d5fb4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea81a487806a01c7815505b027e7e820') in 0.022220 seconds 
+  Import took 0.034205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_110.asset
+  artifactKey: Guid(145b3944a7ee41649922eb93ab0c2b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_110.asset using Guid(145b3944a7ee41649922eb93ab0c2b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b20852eb11720798ce2fe22c010aff') in 0.011816 seconds 
+  Import took 0.018312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_109.asset
+  artifactKey: Guid(f888791ccadda7d4f8a87da247ec057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_109.asset using Guid(f888791ccadda7d4f8a87da247ec057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b8f695026c1fd57a13c88ce15b5e01c') in 0.020322 seconds 
+  Import took 0.026610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_89.asset
+  artifactKey: Guid(d10cb8e86707da546abe3de7550ce43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_89.asset using Guid(d10cb8e86707da546abe3de7550ce43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653ece383ea474c8b40dfb851eebf282') in 0.015235 seconds 
+  Import took 0.028347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_98.asset
+  artifactKey: Guid(3c6b6deea85e0d44aac9bf7f17957d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_98.asset using Guid(3c6b6deea85e0d44aac9bf7f17957d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfc033a2c352198f8cdd55347b10d6a') in 0.026770 seconds 
+  Import took 0.035027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_103.asset
+  artifactKey: Guid(bf7ffa76c81078e48b2e70c66a321ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_103.asset using Guid(bf7ffa76c81078e48b2e70c66a321ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9743dcdc3980310b55485ca5ad7e66') in 0.016806 seconds 
+  Import took 0.027800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_95.asset
+  artifactKey: Guid(fb77766a5b6cf70439bee56ac36996cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_95.asset using Guid(fb77766a5b6cf70439bee56ac36996cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b9c541d7484d79d60b7999a1bc66d4') in 0.011207 seconds 
+  Import took 0.022986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_53.asset
+  artifactKey: Guid(7c75b8ab7aaabf54d9431dab6c7b4c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_53.asset using Guid(7c75b8ab7aaabf54d9431dab6c7b4c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6614c13071f126f71fae60afa12ccc0') in 0.013370 seconds 
+  Import took 0.020413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_71.asset
+  artifactKey: Guid(a5e57bd29316a4c46b428e3e88bbdbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_71.asset using Guid(a5e57bd29316a4c46b428e3e88bbdbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae54caae350ff622eadc7999426be353') in 0.017423 seconds 
+  Import took 0.023682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004578 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_87.asset
+  artifactKey: Guid(4943800bfeb90e04ea8daf890b75a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_87.asset using Guid(4943800bfeb90e04ea8daf890b75a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f322a212091c4b90efd267c7d676538') in 0.015893 seconds 
+  Import took 0.022190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002014 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_70.asset
+  artifactKey: Guid(13a69d7aaa385ca49b6063d10d80170d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_70.asset using Guid(13a69d7aaa385ca49b6063d10d80170d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e592d54959d1e1ff7bcf2e99951bb8da') in 0.026902 seconds 
+  Import took 0.035658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002011 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_107.asset
+  artifactKey: Guid(c3d13085ab3937f4a8dab8b6d21b7da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_107.asset using Guid(c3d13085ab3937f4a8dab8b6d21b7da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a68c70f1f20039188b99bd67542003') in 0.015253 seconds 
+  Import took 0.025224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_124.asset
+  artifactKey: Guid(bb989faa20771a8469515d3bb41b21bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_124.asset using Guid(bb989faa20771a8469515d3bb41b21bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd11f4aedd807252976854638d0b9cdb') in 0.077369 seconds 
+  Import took 0.085172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_111.asset
+  artifactKey: Guid(082b08d5d5a96cc4d81ef84d16427987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_111.asset using Guid(082b08d5d5a96cc4d81ef84d16427987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381a80e85f2698360cf9c7fa63fa139d') in 0.014405 seconds 
+  Import took 0.021584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_119.asset
+  artifactKey: Guid(b69e20423809eb24c9d678ad087523e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_119.asset using Guid(b69e20423809eb24c9d678ad087523e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903bdf1b5f1bab5bfe2152eb5467eafb') in 0.019566 seconds 
+  Import took 0.044263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_117.asset
+  artifactKey: Guid(5ab9dbec7d9fbb34e9837efc01f77a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_117.asset using Guid(5ab9dbec7d9fbb34e9837efc01f77a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967c632200c8050d25176056b1735dee') in 0.033286 seconds 
+  Import took 0.047393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_121.asset
+  artifactKey: Guid(72baf1b88370e074589a46cb66fbf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_121.asset using Guid(72baf1b88370e074589a46cb66fbf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0236b0fe24294f03ff228db4da6be5cb') in 0.012835 seconds 
+  Import took 0.019489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_113.asset
+  artifactKey: Guid(9ec1dfca4944c2b47891979af04abd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_113.asset using Guid(9ec1dfca4944c2b47891979af04abd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '994d5936ed3e129f6c7909911ab61a58') in 0.029303 seconds 
+  Import took 0.040970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_123.asset
+  artifactKey: Guid(37686a95842e87946a3c6c5f981b5d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_123.asset using Guid(37686a95842e87946a3c6c5f981b5d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5499416803eca9ff32c8fcf0bf108da4') in 0.017194 seconds 
+  Import took 0.025195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002492 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_114.asset
+  artifactKey: Guid(37045a328a5f6fc45a40c7ec0a72be80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_114.asset using Guid(37045a328a5f6fc45a40c7ec0a72be80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa6fbc06b7733e18af26915d6c698f0') in 0.015406 seconds 
+  Import took 0.023673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_127.asset
+  artifactKey: Guid(f2f0af9c30431954a88f1a5c11aec3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_127.asset using Guid(f2f0af9c30431954a88f1a5c11aec3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f888f859cf3a4825fb25f6e7a86cfc') in 0.017133 seconds 
+  Import took 0.023600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001518 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_57.asset
+  artifactKey: Guid(6d624f23e124ff044b7cd77cbe30a9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_57.asset using Guid(6d624f23e124ff044b7cd77cbe30a9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c4f640ca27fb6cd27f8824625170ed') in 0.013168 seconds 
+  Import took 0.020837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000769 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_102.asset
+  artifactKey: Guid(0fed784645d9d91428fdd682c5a5ffc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_102.asset using Guid(0fed784645d9d91428fdd682c5a5ffc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970ac24cf61d95736b74cb9587d61c60') in 0.020221 seconds 
+  Import took 0.028833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_104.asset
+  artifactKey: Guid(11e23e56ed558be46987c2fa4baaadfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_104.asset using Guid(11e23e56ed558be46987c2fa4baaadfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f6de7e4d5c3a598cfde2fdd15f3e53') in 0.012857 seconds 
+  Import took 0.019302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_126.asset
+  artifactKey: Guid(0a7a5db501c07f14a8a291da5c6c49b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_126.asset using Guid(0a7a5db501c07f14a8a291da5c6c49b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e452accfb02e74d9462ad0afc50992') in 0.015310 seconds 
+  Import took 0.022157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000869 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_108.asset
+  artifactKey: Guid(e56370a03b628f84faf8fc75dc303652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_108.asset using Guid(e56370a03b628f84faf8fc75dc303652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c88ae9b9bf03b74eedb0494817e425') in 0.011384 seconds 
+  Import took 0.017843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_125.asset
+  artifactKey: Guid(d639f97f19c00604ea494a0401b35582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_125.asset using Guid(d639f97f19c00604ea494a0401b35582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4e68bf08a75d998abeaadc7d1c35fc') in 0.014686 seconds 
+  Import took 0.025428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_100.asset
+  artifactKey: Guid(f3f07d73416d9744c9f0784e08029e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_100.asset using Guid(f3f07d73416d9744c9f0784e08029e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e18d1e5c4d2a412b48ab7dc45ee1c1e') in 0.018073 seconds 
+  Import took 0.025253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_59.asset
+  artifactKey: Guid(c4b99341b083db343b56e1e25fdc1906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_59.asset using Guid(c4b99341b083db343b56e1e25fdc1906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bed2ad5b48788defe5918efce704b6') in 0.026632 seconds 
+  Import took 0.111969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_122.asset
+  artifactKey: Guid(cbbc132c49e167e4ba15afbab69b87c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_122.asset using Guid(cbbc132c49e167e4ba15afbab69b87c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4923518d001643a417d7f336166558') in 0.013748 seconds 
+  Import took 0.027143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000792 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_115.asset
+  artifactKey: Guid(52c77d611eaceed4e96582baff5fc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_115.asset using Guid(52c77d611eaceed4e96582baff5fc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdd3e68ac3b467bd750992a7674c510') in 0.015164 seconds 
+  Import took 0.022100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001800 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_50.asset
+  artifactKey: Guid(2e6a5213fa20e064ba85db2802d863e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_50.asset using Guid(2e6a5213fa20e064ba85db2802d863e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a429274f67d3e32b5cbe0e00a0a61a2b') in 0.020291 seconds 
+  Import took 0.029236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003078 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_105.asset
+  artifactKey: Guid(71f684ea83fc5e945b9e5da47f092015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_105.asset using Guid(71f684ea83fc5e945b9e5da47f092015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f840544dbea06f281f32dd6c9b798f86') in 0.013422 seconds 
+  Import took 0.021798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005682 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_118.asset
+  artifactKey: Guid(0324b40100df5da47a3e5b19eb21042f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_118.asset using Guid(0324b40100df5da47a3e5b19eb21042f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4d5c0703ca8112b21f0972f38d2928') in 0.014782 seconds 
+  Import took 0.022155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000762 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_96.asset
+  artifactKey: Guid(bdda5ebfa6f51f44b954c5693f0cc786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_96.asset using Guid(bdda5ebfa6f51f44b954c5693f0cc786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3e2eb9c3b2e0cf46c4a5ebd07871a9') in 0.014433 seconds 
+  Import took 0.020693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_112.asset
+  artifactKey: Guid(c8470df83533b114b9cac8fc52510da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_112.asset using Guid(c8470df83533b114b9cac8fc52510da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5771bdbf791feed1617d083ffc4f7b0') in 0.011808 seconds 
+  Import took 0.018189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_74.asset
+  artifactKey: Guid(25ba3dd85655d334192098604410b8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_74.asset using Guid(25ba3dd85655d334192098604410b8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c4cb5fa72b555b4d0bd78737120f86') in 0.019891 seconds 
+  Import took 0.027802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_77.asset
+  artifactKey: Guid(5b112c8237810c7478c31f0bb3dd0d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_77.asset using Guid(5b112c8237810c7478c31f0bb3dd0d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d334924acb524dc371a0a967aef918f') in 0.011857 seconds 
+  Import took 0.017820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_116.asset
+  artifactKey: Guid(42fb91ff04abf89439b9f57276d1a959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_116.asset using Guid(42fb91ff04abf89439b9f57276d1a959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8075f73090333b584602e844a76ec61f') in 0.012495 seconds 
+  Import took 0.019440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_120.asset
+  artifactKey: Guid(03ef85465ab9544488d14cc1924c46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_120.asset using Guid(03ef85465ab9544488d14cc1924c46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33aed95c103f47e0c1d9f321fd4db538') in 0.013671 seconds 
+  Import took 0.022488 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.255 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2256ms)
+		BeginReloadAssembly (206ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (1948ms)
+			LoadAssemblies (339ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (510ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (154ms)
+			SetupLoadedEditorAssemblies (686ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (153ms)
+				ProcessInitializeOnLoadAttributes (507ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.5 MB.
+System memory in use after: 229.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2945.
+Total: 4.853452 ms (FindLiveObjects: 0.297526 ms CreateObjectMapping: 0.098522 ms MarkObjects: 4.427924 ms  DeleteObjects: 0.028163 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.031 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4031ms)
+		BeginReloadAssembly (234ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (131ms)
+		EndReloadAssembly (3672ms)
+			LoadAssemblies (424ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1739ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (128ms)
+			SetupLoadedEditorAssemblies (860ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (187ms)
+				ProcessInitializeOnLoadAttributes (623ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.7 MB.
+System memory in use after: 230.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 6.813412 ms (FindLiveObjects: 0.534653 ms CreateObjectMapping: 0.177959 ms MarkObjects: 6.076489 ms  DeleteObjects: 0.022488 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 793.873419 seconds.
+  path: Assets/Scenes/SampleScene/NavMesh-GameDirector.asset
+  artifactKey: Guid(2207d09a0c36c497781739678fabb6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/NavMesh-GameDirector.asset using Guid(2207d09a0c36c497781739678fabb6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1430e784bb5e1c4be1211f80bdd522') in 0.029059 seconds 
+  Import took 0.037068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Scenes/SampleScene/NavMesh-GameObject.asset
+  artifactKey: Guid(38cb3628ba52044758b6ea3c2227ee7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/NavMesh-GameObject.asset using Guid(38cb3628ba52044758b6ea3c2227ee7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ddd2ace7ec18dc890204bbaa970ca9f') in 0.008631 seconds 
+  Import took 0.014219 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
