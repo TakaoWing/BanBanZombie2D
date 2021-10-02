@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private Vector2 mousePos;
+    [SerializeField] private BulletCreator bulletCreator;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +21,8 @@ public class PlayerController : MonoBehaviour
             mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             // オブジェクトの向きをマウスの座標に向ける
             this.transform.rotation = Quaternion.FromToRotation(Vector3.up, mousePos.normalized);
+            // 弾を撃つ
+            bulletCreator.Shot();
         }
     }
 }
